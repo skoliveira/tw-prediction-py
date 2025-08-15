@@ -40,4 +40,4 @@ The file path should look like this:
 
 ### Step 4: Restart Dota 2
 
-Restart Dota 2, and you're done! Now, viewers can also mouse over the bottom HUD directly.
+Restart Dota 2, and you're done! Now, viewers can choose predictions.
